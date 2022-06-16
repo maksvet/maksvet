@@ -1,15 +1,9 @@
-Full Stack Web Development
+Software Development
 ### Maksim Svetlakov
 
-I'm Maksim Svetlakov from Canada. I do web apps.
-While honing my skills in React, Node and Express, I love to learn new languages: working on C# for use in Unity.
-I have a special interest in AR/VR web technology stack. 
+My name is Maksim Svetlakov, I'm a software developer from Canada.
 
-### Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MYSQL / DOCKER
-
--  I’m currently creating a portfolio
--  I’m currently working on VR control line simulator for control line air models 
--  I’m currently learning C# 
+### Skills: GCP / AWS / AZURE / DOCKER / .NET / C# / JS / TYPESCRIPT / NODE / EXPRESS / MYSQL / MONGODB  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksvet)](https://github.com/anuraghazra/github-readme-stats)
 

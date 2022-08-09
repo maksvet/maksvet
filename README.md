@@ -1,9 +1,8 @@
-Software Development
 ### Maksim Svetlakov
 
 Software developer at Foci Solutions.
 
-### Skills: GCP / AWS / AZURE / DOCKER / .NET / C# / JS / TYPESCRIPT / NODE / EXPRESS / MYSQL / MONGODB  
+### Skills: GCP / AWS / AZURE / DOCKER / KUBERNETES/ FLUX / TERRAFORM / .NET / C# / JS / TYPESCRIPT / NODE / EXPRESS / MYSQL  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksvet)](https://github.com/anuraghazra/github-readme-stats)
 

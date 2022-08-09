@@ -1,7 +1,7 @@
 Software Development
 ### Maksim Svetlakov
 
-My name is Maksim Svetlakov, I'm a software developer from Canada.
+Software developer at Foci Solutions.
 
 ### Skills: GCP / AWS / AZURE / DOCKER / .NET / C# / JS / TYPESCRIPT / NODE / EXPRESS / MYSQL / MONGODB  
 
